@@ -29,6 +29,7 @@ hr {
 }
 .container {
   width: 970px;
+  overflow: hidden;
   position: relative;
   margin-right: auto;
   margin-left: auto;
