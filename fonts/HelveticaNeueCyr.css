@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'HelveticaNeueCyr-Bold';
+    src: url('HelveticaNeueCyr-Bold.eot');
+    src: url('HelveticaNeueCyr-Bold?#iefix') format('embedded-opentype'),
+         url('HelveticaNeueCyr-Bold.afm') format('afm'),
+         url('HelveticaNeueCyr-Bold.woff') format('woff'),
+         url('HelveticaNeueCyr-Bold.ttf') format('truetype'),
+         url('HelveticaNeueCyr-Bold.svg#HelveticaNeueCyr-Bold') format('svg');
+}
+
+
+@font-face {
+    font-family: 'HelveticaNeueCyr-Roman';
+    src: url('HelveticaNeueCyr-Roman.eot');
+    src: url('HelveticaNeueCyr-Roman?#iefix') format('embedded-opentype'),
+         url('HelveticaNeueCyr-Roman.afm') format('afm'),
+         url('HelveticaNeueCyr-Roman.woff') format('woff'),
+         url('HelveticaNeueCyr-Roman.ttf') format('truetype'),
+         url('HelveticaNeueCyr-Roman.svg#HelveticaNeueCyr-Roman') format('svg');
+}
+
+
+@font-face {
+    font-family: 'HelveticaNeueCyr-Light';
+    src: url('HelveticaNeueCyr-Light.eot');
+    src: url('HelveticaNeueCyr-Light?#iefix') format('embedded-opentype'),
+         url('HelveticaNeueCyr-Light.afm') format('afm'),
+         url('HelveticaNeueCyr-Light.woff') format('woff'),
+         url('HelveticaNeueCyr-Light.ttf') format('truetype'),
+         url('HelveticaNeueCyr-Light.svg#HelveticaNeueCyr-Light') format('svg');
+}
