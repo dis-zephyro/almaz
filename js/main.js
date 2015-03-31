@@ -5,6 +5,13 @@ $('.bank').jCarouselLite({
     visible: 4
 });
 
+$('.reply').jCarouselLite({
+    btnNext: '.reply-more',
+    vertical: true,
+    speed: 500,
+    visible: 2
+});
+
 
 $('#li').click(function() {
     setTimeout("$('#li span').replaceWith('<span>файл прикреплен</span>')", 2000);
@@ -85,10 +92,15 @@ function init () {
 }
 
 
-$(".popup").fancybox({
+$(".popup, .certificate").fancybox({
     "padding" : 0
 });
 
 $(".map").fancybox({
     "padding" : 20
+});
+
+$(".more").fancybox({
+    "padding" : 20,
+    "maxWidth"  : 800
 });
